@@ -41,7 +41,7 @@ export default function Projects() {
                         <span className="stack-tag">Pymysql</span>
                     </div>
                     <div className="project-footer">
-                        <a href="https://apps.shopify.com/yeswefulfill" className="project-link">View project <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 8h10M9 4l4 4-4 4"/></svg></a>
+                        <a href="https://restroaidemo.streamlit.app" className="project-link">View project <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 8h10M9 4l4 4-4 4"/></svg></a>
                     </div>
                     </div>
                 </div>
