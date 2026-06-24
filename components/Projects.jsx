@@ -74,7 +74,7 @@ export default function Projects() {
                         <span className="stack-tag">Adobe PDF Library</span>
                         <span className="stack-tag">Orderdesk SDK</span>
                         <span className="stack-tag">Slack API</span>
-                        <span className="stack-tag">Shopify SKD</span>
+                        <span className="stack-tag">Shopify SDK</span>
                     </div>
                     <div className="project-footer">
                         <a href="https://apps.shopify.com/yeswefulfill" className="project-link">View project <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 8h10M9 4l4 4-4 4"/></svg></a>

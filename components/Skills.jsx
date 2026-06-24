@@ -9,8 +9,8 @@ export default function Skills() {
                 <div className="skill-card">
                     <div className="skill-cat">Backend</div>
                     <ul className="skill-list">
-                    <li>PHP 8.x / Laravel</li>
-                    <li>CodeIgniter</li>
+                    <li>PHP 8.x</li>
+                    <li>CodeIgniter / Laravel</li>
                     <li>Python / FastAPI</li>
                     <li>Node.js / Express</li>
                     <li>REST API Design</li>
@@ -24,6 +24,16 @@ export default function Skills() {
                     <li>Tailwind CSS</li>
                     <li>Vanila JS</li>
                     <li>HTML5 / CSS3</li>
+                    </ul>
+                </div>
+                <div className="skill-card">
+                    <div className="skill-cat">CMS/Platforms</div>
+                    <ul className="skill-list">
+                    <li>Shopify</li>
+                    <li>Wordpress</li>
+                    <li>Opencart</li>
+                    <li>Drupal</li>
+                    <li>Magento</li>
                     </ul>
                 </div>
                 <div className="skill-card">
